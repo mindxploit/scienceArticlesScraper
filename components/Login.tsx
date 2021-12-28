@@ -54,7 +54,7 @@ const Login = () => {
         <Typography textAlign={"center"} variant="body2">
           Welcome back
         </Typography>
-        <form disabled={loading} onSubmit={login}>
+        <form onSubmit={login}>
           <Container>
             <Box mb={2}>
               <Typography gutterBottom fontWeight={"bold"}>
