@@ -1,1 +1,1 @@
-### Simple science and technology web scraper
+### Science and technology web scraper
